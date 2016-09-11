@@ -1,0 +1,9 @@
+/.idea
+/.idea/libraries
+/.idea/modules.xml
+/.idea/.name
+/.idea/workspace.xml
+/target/
+/target/generated-sources/
+/target/generated-test-sources/
+
