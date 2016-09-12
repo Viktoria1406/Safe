@@ -1,0 +1,8 @@
+package mainPack;
+
+/**
+ * Created by Vika on 11.09.2016.
+ */
+public class App1 {
+
+}
